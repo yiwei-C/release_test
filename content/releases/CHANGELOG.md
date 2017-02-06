@@ -467,3 +467,4 @@ This project adheres to [Semantic Versioning](http://semver.org/). Additionally,
 ### **[1.2.0] - 2016-06-28 [RELEASED]**
 
 - Initial Bitesize Release
+*** Updated CHANGELOG.md
