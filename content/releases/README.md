@@ -1,6 +1,5 @@
 # Bitesize Releases
 
-* [v2.0.7](v2.0.7.html)
 * [v2.0.6](v2.0.6.html)
 * [v2.0.5](v2.0.5.html)
 * [v2.0.4](v2.0.4.html)
